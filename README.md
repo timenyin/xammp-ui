@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="XAMPP Server Logo" />
+  <img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="80" alt="PHP Elephant Logo" />
 </p>
 
 <h1 align="center">XAMPP UI — Earthy Retro-Chic Developer Dashboard</h1>
@@ -8,6 +8,10 @@
   <b>A modern, high-performance, open-source local workspace dashboard theme for XAMPP developers.</b>
   <br />
   Featuring an earthy minimalist design, dynamic project tracking, live search filtering, and animated SVG server graphics.
+</p>
+
+<p align="center">
+  <img src="assets/img/dashboard-preview.png" alt="XAMPP UI Dashboard Preview Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -103,7 +107,7 @@ Crafted by **Harmony**
 <br />
 
 <p align="center">
-    <img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="80" alt="PHP Elephant Logo" />
+    <img src="https://img.icons8.com/?size=100&id=JybIpZjjXT0F&format=png&color=000000" width="80" alt="XAMPP Server Logo" />
 </p>
 
 <p align="center">
